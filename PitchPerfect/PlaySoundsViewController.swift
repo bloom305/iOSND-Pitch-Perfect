@@ -8,6 +8,8 @@
 import UIKit
 import AVFoundation
 
+// Source code primarily provided by Udacity course material
+
 class PlaySoundsViewController: UIViewController {
     
     // MARK: Outlets

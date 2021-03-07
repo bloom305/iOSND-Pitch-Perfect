@@ -8,6 +8,8 @@
 import UIKit
 import AVFoundation
 
+// Source code primarily provided by Udacity course material
+
 // MARK: - PlaySoundsViewController: AVAudioPlayerDelegate
 
 extension PlaySoundsViewController: AVAudioPlayerDelegate {
